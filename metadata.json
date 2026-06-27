@@ -1,0 +1,6 @@
+{
+  "name": "Peaches Store",
+  "description": "Interactive emulator and visual customizer for the Shopify Wave theme (Peaches preset), with a fully compliant OS 2.0 template exporter and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
